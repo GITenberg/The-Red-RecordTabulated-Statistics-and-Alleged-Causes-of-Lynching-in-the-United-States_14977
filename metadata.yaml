@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5765
     wikipedia: http://en.wikipedia.org/wiki/Ida_B._Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14977#The-Red-RecordTabulated-Statistics-and-Alleged-Causes-of-Lynching-in-the-United-States
 gutenberg_bookshelf:
 - African American Writers
 - Crime Nonfiction
